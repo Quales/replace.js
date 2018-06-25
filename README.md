@@ -2,12 +2,16 @@
 
 ## Example usage
 ```js
-const Client = require("./client");
-const bot = new Client("REPLACE TOKEN");
+const Client = require("replace.js");
+const client = new Client("REPLACE TOKEN");
 
 const Discord = require("discord.js")
-const bbot = new Discord.Client()
-bbot.on("message", msg => bot.addMsg(msg))
-bbot.login("DISCORD BOT TOKEN HERE")
+const bot = new Discord.Client()
+bot.on("message", msg => client.addMsg(msg))
+bot.login("DISCORD BOT TOKEN HERE")
 
 ```
+
+# Get a Token
+To get a token, go to 
+# http://vps470919.ovh.net:3000/api/register
