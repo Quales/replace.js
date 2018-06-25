@@ -14,4 +14,4 @@ bot.login("DISCORD BOT TOKEN HERE")
 
 # Get a Token
 To get a token, go to 
-# http://vps470919.ovh.net:3000/api/register
+### http://vps470919.ovh.net:3000/api/register
