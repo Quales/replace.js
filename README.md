@@ -13,7 +13,7 @@ bot.login("DISCORD BOT TOKEN HERE")
 ```
 
 # Get a Token
-To get a token, go to 
+To get a token, go to (It's limited at 2 tokens a day)
 ### http://vps470919.ovh.net:3000/api/register
 
 ##get(id, callback):
