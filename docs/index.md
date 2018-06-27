@@ -14,8 +14,8 @@
 ### TLDR code example
 
 ```javascript
-const Client = require("replace.js");
-const bot = new Client("REPLACE TOKEN")//token of Replace API
+const Replace = require("replace.js");
+const bot = new Replace.Client("REPLACE TOKEN") // token of Replace API
 const prefix = "-" // prefix you want
 
 const Discord = require("discord.js")
