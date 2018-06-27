@@ -2,8 +2,8 @@
 
 ## Example usage
 ```js
-const Client = require("replace.js");
-const client = new Client("REPLACE TOKEN");
+const Replace = require("replace.js");
+const client = new Replace.Client("REPLACE TOKEN");
 
 const Discord = require("discord.js")
 const bot = new Discord.Client()
