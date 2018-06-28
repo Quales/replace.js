@@ -1,3 +1,8 @@
+---
+title: Replace.js
+description: Official doc
+---
+
 # Replace.js doc
 
 ### Api by [Quales](https://github.com/Quales/) and doc by [Jus de Patate](https://github.com/jusdepatate)
