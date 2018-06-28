@@ -125,4 +125,4 @@ This is not the only things that you can get, remember a user object is somethin
 
 **If you have any other question, you can contact Quales**
 
-**Made with :heart: and [Mark Text](https://github.com/marktext/marktext) by [Jus de Patate](https://github.com/jusdepatate)**
+**Made with <3 by [Jus de Patate](https://github.com/jusdepatate)**
